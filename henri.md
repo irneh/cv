@@ -26,11 +26,12 @@ Tech work with startups and consulting in private and public sectors.
 Contractor. One of three systems engineers supporting back end services for a
 popular mobile game (Galaxy of Heroes). Responsible on:
 
-- AWS: EC2 application load balancers, auto-scaling groups, MySQL RDS,
-  DynamoDB; IAM, boto python & bash scripting, cross-account resource sharing,
-  VPC, Elasticache Memcached & Redis (& RedisLabs), Elasticsearch.
+- AWS: EC2, application load balancers, auto-scaling groups, MySQL/RDS,
+  DynamoDB, IAM, cross-account resource sharing, VPC, Elasticache/Memcached,
+  RedisLabs/Redis, Elasticsearch.
 - Java on Tomcat runtime environment.
 - Salt configuration management.
+- Python, bash/sh.
 - DNS Made Easy; Akamai CDN.
 - Jenkins; Perforce; Git against AWS CodeCommit.
 - Datadog; Loggly.
@@ -41,10 +42,11 @@ Primary systems engineer of a company delivering music streaming, search and
 discovery. Responsible on:
 
 - Data center work; Cisco Meraki switches, storage pods, firewall.
-- AWS: IAM, EC2, S3, SNS, SES ...
+- AWS: IAM, EC2, S3, SNS, SES, Lamda, Route53 health checks ...
 - Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
 - Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
-- Debug and perf testing optimizations of Python & Node API.
+- Performance testing and optimizations of Python API (Locust).
+- Docker and LXD/LXC for prototyping and proofs of concept.
 - Fiddling with Angular front end.
 
 #### [Scoot](https://scoot.io) 2012 - 2015
