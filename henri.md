@@ -101,4 +101,4 @@ streaming replication, Github, Ansible.
 ### Education
 
 - Physics at the University of California at Berkeley.
-- Fluent English and French; practical Spanish.
+- Fluent English and French; enough-for-a-couple-weeks-in-Spain Spanish.
