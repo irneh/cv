@@ -53,6 +53,9 @@ discovery. Responsible on:
 #### [Scoot](https://scoot.io) 2012 - 2015
 
 Systems engineer of a startup building a web and mobile application.
+Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load
+balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL &
+streaming replication, Github, Ansible.
 
 - Set up and managed all the server environments and application services
   including OS, web, app, cache and database services, load balancers, DNS,
@@ -64,10 +67,6 @@ Systems engineer of a startup building a web and mobile application.
   and penetration testing. Established auto-scaling.
 - Performed firewall management and SSL certificate management at the load
   balancer, web server and database layers.
-
-Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load
-balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL &
-streaming replication, Github, Ansible.
 
 ### Previously across public and private sectors
 
