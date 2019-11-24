@@ -6,7 +6,7 @@
 
 General form: `pandoc henri.md -o henri.<file-format>`.
 
-### Markdown
+### PDF
 
 Add `-V fontfamily=sans`.
 
