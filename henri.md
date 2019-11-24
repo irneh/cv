@@ -45,6 +45,7 @@ discovery. Responsible on:
 - AWS: IAM, EC2, S3, SNS, SES, Lamda, Route53 health checks ...
 - Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
 - Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
+- Configuration management with Chef.
 - Performance testing and optimizations of Python API (Locust).
 - Docker and LXD/LXC for prototyping and proofs of concept.
 - Fiddling with Angular front end.
