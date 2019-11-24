@@ -1,7 +1,6 @@
 ### Henri Gabriel
 
 <henri@workforpizza.com>
-Circular reference: https://github.com/irneh/workforpizza/blob/rezoom2017/henri/henri.md
 
 Tech work with startups and consulting in private and public sectors.
 
@@ -27,14 +26,14 @@ Tech work with startups and consulting in private and public sectors.
 Contractor. One of three systems engineers supporting back end services for a
 popular mobile game (Galaxy of Heroes). Responsible on:
 
-- AWS: EC2 application load balancers; auto-scaling groups; MySQL RDS;
-  DynamoDB; IAM; boto python & bash scripting; cross-account resource sharing;
-  VPC; Elasticache Memcached & Redis (& RedisLabs); Elasticsearch 
-- Java on Tomcat runtime environment
-- Salt configuration management
-- DNS Made Easy; Akamai CDN
-- Jenkins; Perforce; Git against AWS CodeCommit
-- Datadog; Loggly
+- AWS: EC2 application load balancers, auto-scaling groups, MySQL RDS,
+  DynamoDB; IAM, boto python & bash scripting, cross-account resource sharing,
+  VPC, Elasticache Memcached & Redis (& RedisLabs), Elasticsearch.
+- Java on Tomcat runtime environment.
+- Salt configuration management.
+- DNS Made Easy; Akamai CDN.
+- Jenkins; Perforce; Git against AWS CodeCommit.
+- Datadog; Loggly.
 
 #### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
@@ -42,7 +41,7 @@ Primary systems engineer of a company delivering music streaming, search and
 discovery. Responsible on:
 
 - Data center work; Cisco Meraki switches, storage pods, firewall.
-- AWS -- IAM, EC2, S3, SNS, SES ...
+- AWS: IAM, EC2, S3, SNS, SES ...
 - Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
 - Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
 - Debug and perf testing optimizations of Python & Node API.
@@ -63,9 +62,9 @@ Systems engineer of a startup building a web and mobile application.
 - Performed firewall management and SSL certificate management at the load
   balancer, web server and database layers.
 
-Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load balancer,
-Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostreSQL & streaming
-replication, Github, Ansible.
+Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load
+balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL &
+streaming replication, Github, Ansible.
 
 ### Previously across public and private sectors
 
@@ -80,14 +79,14 @@ replication, Github, Ansible.
 
 #### At
 
-- Homeland Security & Emergency Management (AK) 2013
+- Homeland Security & Emergency Management (Alaska) 2013
 - California Lottery 2013
 - Volcano Corporation 2012
 - Toxic Substances Control 2011 - 2012
 - California Lottery 2010 - 2011
 - IMS Health 2009 - 2010
-- Superintendent of Public Instruction (WA) 2009
-- Department of Transportation (IA) 2008 - 2009
+- Superintendent of Public Instruction (Washington) 2009
+- Department of Transportation (Iowa) 2008 - 2009
 - Victim Compensation Claims Board 2008
 - Health Net 2007 - 2008
 - POS Portal 2006 - 2007
