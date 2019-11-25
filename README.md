@@ -2,7 +2,9 @@
 
 <henri@workforpizza.com>
 
-## Converters
+## Format Conversion
+
+Utility: [Pandoc](https://pandoc.org/)
 
 General form: `pandoc henri.md -o henri.<file-format>`.
 
