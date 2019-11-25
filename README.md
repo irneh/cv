@@ -1,4 +1,4 @@
-# CV/resume - Henri Gabriel
+# Resume/CV - Henri Gabriel
 
 <henri@workforpizza.com>
 
