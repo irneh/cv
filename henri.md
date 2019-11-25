@@ -27,8 +27,8 @@ Contractor. One of three systems engineers supporting back end services for a
 popular mobile game (Galaxy of Heroes). Responsible on:
 
 - AWS: EC2, application load balancers, auto-scaling groups, MySQL/RDS,
-  DynamoDB, IAM, cross-account resource sharing, VPC, Elasticache/Memcached,
-  RedisLabs/Redis, Elasticsearch.
+  DynamoDB, IAM, cross-account resource sharing, VPC, ElastiCache,
+  Redis, Elasticsearch.
 - Java on Tomcat runtime environment.
 - Salt configuration management.
 - Python, bash/sh.
@@ -41,10 +41,12 @@ popular mobile game (Galaxy of Heroes). Responsible on:
 Primary systems engineer of a company delivering music streaming, search and
 discovery. Responsible on:
 
-- Data center work; Cisco Meraki switches, storage pods, firewall.
-- AWS: IAM, EC2, S3, SNS, SES, Lamda, Route53 health checks ...
+- AWS: IAM, EC2, S3, SNS, SES, Lamda, Route53 health checks, ...
+- Management of PostgreSQL, ElasticSearch, Couchbase, Cassandra and Redis data
+  stores.
 - Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
-- Management of PostgreSQL, ElasticSearch, Couchbase and Cassandra data stores.
+- Data center work; Cisco Meraki switches, storage pods, firewall.
+- Xen/KVM hypervisor management; remote sh scripting for capacity planning.
 - Configuration management with Chef.
 - Performance testing and optimizations of Python API (Locust).
 - Docker and LXD/LXC for prototyping and proofs of concept.
@@ -54,18 +56,18 @@ discovery. Responsible on:
 
 Systems engineer of a startup building a web and mobile application.
 Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load
-balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL &
-streaming replication, Github, Ansible.
+balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL,
+Github, Ansible.
 
 - Set up and managed all the server environments and application services
   including OS, web, app, cache and database services, load balancers, DNS,
   content delivery network, process and system monitors, message broker and
   task queues.
-- Designed the overall application architecture, reviewed client and
-  server-side code and prototyped the mobile application.
+- Designed the systems architecture, reviewed client and server-side code and
+  prototyped the mobile application.
 - Established and tested systems failover across data centers. Performed load
   and penetration testing. Established auto-scaling.
-- Performed firewall management and SSL certificate management at the load
+- Performed firewall management and SSL/TLS management at the load
   balancer, web server and database layers.
 
 ### Previously across public and private sectors
