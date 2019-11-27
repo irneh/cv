@@ -6,69 +6,29 @@ Tech work with startups and consulting in private and public sectors.
 
 ### Industry Experience
 
-- Streaming music
-- International trade
-- Payment card industry
-- Health care
-- Health insurance
-- Public health
-- Pharmaceutical data mining
-- Investments & pensions
-- Gaming
-- Lotteries
-- Corrections
-- B2B
+Streaming music, international trade, payment card industry, health care, health insurance, public health, pharmaceutical data mining, investments & pensions, gaming, lotteries, corrections, B2B.
 
 ### Recently
 
 #### [EA Capital Games](https://www.ea.com/studios/capital-games) 2018 - 2019
 
 Contractor. One of three systems engineers supporting back end services for a
-popular mobile game (Galaxy of Heroes). Responsible on:
-
-- AWS: EC2, application load balancers, auto-scaling groups, MySQL/RDS,
-  DynamoDB, IAM, cross-account resource sharing, VPC, ElastiCache,
-  Redis, Elasticsearch.
-- Java on Tomcat runtime environment.
-- Salt configuration management.
-- Python, bash/sh.
-- DNS Made Easy; Akamai CDN.
-- Jenkins; Perforce; Git against AWS CodeCommit.
-- Datadog; Loggly.
+popular mobile game (Galaxy of Heroes).
 
 #### [Pulselocker](https://pulselocker.com) 2015 - 2017
 
 Primary systems engineer of a company delivering music streaming, search and
-discovery. Responsible on:
-
-- AWS: IAM, EC2, S3, SNS, SES, Lamda, Route53 health checks, ...
-- Management of PostgreSQL, ElasticSearch, Couchbase, Cassandra and Redis data
-  stores.
-- Nginx web behind HAProxy; DDOS rate limiting & blacklisting.
-- Data center work; Cisco Meraki switches, storage pods, firewall.
-- Xen/KVM hypervisor management; remote sh scripting for capacity planning.
-- Configuration management with Chef.
-- Performance testing and optimizations of Python API (Locust).
-- Docker and LXD/LXC for prototyping and proofs of concept.
-- Fiddling with Angular front end.
+discovery. 
 
 #### [Scoot](https://scoot.io) 2012 - 2015
 
-Systems engineer of a startup building a web and mobile application.
-Responsible on: CloudFront CDN, S3, EC2, Route53 DNS, Nginx proxy and load
-balancer, Supervisord, uWSGI, Python runtime, Celery, RabbitMQ, PostgreSQL,
-Github, Ansible.
+Primary systems  engineer of a startup building a web and mobile application.
 
-- Set up and managed all the server environments and application services
-  including OS, web, app, cache and database services, load balancers, DNS,
-  content delivery network, process and system monitors, message broker and
-  task queues.
-- Designed the systems architecture, reviewed client and server-side code and
-  prototyped the mobile application.
-- Established and tested systems failover across data centers. Performed load
-  and penetration testing. Established auto-scaling.
-- Performed firewall management and SSL/TLS management at the load
-  balancer, web server and database layers.
+#### Technology stack
+
+AWS: ALB, ASG, Cloudfront, CodeCommit, DynamoDB, EC2, ELB, ElastiCache, Elasticsearch, IAM, Lambda, MySQL, RDS, Redis, Route53, S3, SES, SNS, VPC, et al.
+
+Other: Ansible, Azure, bash/sh, Cassandra, CDN, Celery, CentOS, Chef, Colocation, Couchbase, Datadog, DDOS, DNS, Docker, ElasticSearch, Git, Github, HAProxy, Java, Javascript, Jenkins, Locust, Loggly, LXD/LXC, Memcached, Meraki, Nagios, NewRelic, Nginx, Perforce, PostgreSQL, Python, RabbitMQ, Redis, Salt, SSL, Supervisord, Tomcat, Ubuntu, uWSGI, Xen/KVM, Zabbix, et al.
 
 ### Previously across public and private sectors
 
@@ -80,6 +40,10 @@ Github, Ansible.
   - Supply chain management; inventory control.
   - Regulatory control (US Customs).
   - Accounts Receivable & Payable integration to General Ledger systems.
+
+#### Technology stack
+
+Microsoft stack: SQL, Exchange, AD, IIS, PowerShell, et al.
 
 #### At
 
