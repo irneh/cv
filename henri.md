@@ -6,7 +6,7 @@ Tech work with startups and consulting in private and public sectors.
 
 ### Industry Experience
 
-- Retail Price Image &  Optimization
+- Retail Price Image & Optimization
 - Streaming music
 - International trade
 - Payment card industry
