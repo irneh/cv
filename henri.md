@@ -39,7 +39,7 @@ Supported back-end services for a popular mobile game (Galaxy of Heroes). Respon
 - Jenkins; Perforce; Git against AWS CodeCommit.
 - Datadog; Loggly.
 
-#### [Pulselocker](https://pulselocker.com) 2015 - 2017
+#### [Pulselocker, aquired by Beatport](https://www.beatport.com/) 2015 - 2017
 
 Primary systems engineer of a company delivering music streaming, search and
 discovery. Responsible on:
