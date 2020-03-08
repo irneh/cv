@@ -18,7 +18,6 @@ Tech work with startups and consulting in private and public sectors.
 - Gaming
 - Lotteries
 - Corrections
-- B2B
 
 ### Recently
 
