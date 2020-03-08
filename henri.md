@@ -107,5 +107,6 @@ Github, Ansible.
 
 ### Education
 
-- Physics at the University of California at Berkeley.
-- Fluent English and French; enough-for-a-couple-weeks-in-Spain Spanish.
+- Cutting classes at UC Berkeley.
+- Fluent English and French.
+- Workable Spanish, after a while.
