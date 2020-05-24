@@ -6,14 +6,14 @@ Tech work with startups and consulting in private and public sectors.
 
 ### Industry Experience
 
-- Retail Price Image & Optimization
 - Streaming music
-- International trade
 - Payment card industry
 - Health care
 - Health insurance
-- Public health
 - Pharmaceutical data mining
+- Public health
+- Retail Price Image & Optimization
+- International trade
 - Investments & pensions
 - Gaming
 - Lotteries
